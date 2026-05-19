@@ -41,7 +41,7 @@ flowchart TD
 If you want to run My.Jarvis on your PC instantly without installing Python, cloning the code, or managing dependencies, you can download the latest pre-compiled standalone executable:
 
 <p align="center">
-  <a href="https://github.com/engineer948/My.Jarvis/releases/latest/download/My.Jarvis.exe">
+  <a href="https://github.com/engineer948/My.Jarvis/releases/download/Alpha/My.Jarvis.exe">
     <img src="https://img.shields.io/badge/Download-My.Jarvis.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white" alt="Download My.Jarvis.exe" />
   </a>
 </p>
