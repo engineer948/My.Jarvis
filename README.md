@@ -155,11 +155,16 @@ To keep the repository clean, lightweight, and professional, **only the source c
 ## 🚀 Setup & Execution
 
 ### A. Run From Source (Developer Setup)
-1. **Clone the Clean Repository**:
-   ```bash
-   git clone https://github.com/engineer948/My.Jarvis.git
-   cd My.Jarvis
-   ```
+1. **Download the Source Code**:
+   Download and extract the project source code ZIP file:
+
+   <p align="center">
+     <a href="https://github.com/engineer948/My.Jarvis/archive/refs/tags/Alpha.zip">
+       <img src="https://img.shields.io/badge/Download-Source%20Code%20(ZIP)-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Download Source Code" />
+     </a>
+   </p>
+
+   Then, open your terminal (PowerShell / Command Prompt) and navigate (`cd`) inside the extracted folder.
 2. **Install Core System & Python Dependencies**:
    Ensure you have Python 3.10 to 3.13 installed. Run:
    ```bash
